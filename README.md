@@ -3,7 +3,7 @@
 ## Student Details
 
 - **Full Name:** `Nazar Popov`
-- **CCID:** `<npopov`
+- **CCID:** `npopov`
 
 ## References and Resources
 
